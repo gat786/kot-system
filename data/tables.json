@@ -1,0 +1,54 @@
+{
+  "tables": [
+    {
+      "table_id": 1,
+      "seating_capacity": 4,
+      "location": "Near window"
+    },
+    {
+      "table_id": 2,
+      "seating_capacity": 4,
+      "location": "Center of the dining area"
+    },
+    {
+      "table_id": 3,
+      "seating_capacity": 4,
+      "location": "Near entrance"
+    },
+    {
+      "table_id": 4,
+      "seating_capacity": 4,
+      "location": "Next to the bar"
+    },
+    {
+      "table_id": 5,
+      "seating_capacity": 4,
+      "location": "Corner of the dining area"
+    },
+    {
+      "table_id": 6,
+      "seating_capacity": 4,
+      "location": "Patio seating"
+    },
+    {
+      "table_id": 7,
+      "seating_capacity": 6,
+      "location": "Center of the dining area"
+    },
+    {
+      "table_id": 8,
+      "seating_capacity": 6,
+      "location": "Near the bar"
+    },
+    {
+      "table_id": 9,
+      "seating_capacity": 8,
+      "location": "Private room"
+    },
+    {
+      "table_id": 10,
+      "seating_capacity": 8,
+      "location": "Large booth at the back"
+    }
+  ]
+}
