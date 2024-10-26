@@ -1,4 +1,5 @@
 from utils import environments, setup_logging
+from utils import transformer
 from typer import Typer
 from fastapi import FastAPI
 import uvicorn
@@ -28,6 +29,13 @@ def run_server():
   )
   pass
 
+@cli.command()
+def transform():
+  """
+  This will transform the data from the data/menu.json file
+  """
+  transformer.transform_menu_json()
+  
 
 if __name__ == "__main__":
   cli()
