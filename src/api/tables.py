@@ -1,8 +1,15 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, Response
+from models import table as table_models
+from repository import tables as tables_repo
+import logging
+import json
 
 router = APIRouter(
   prefix="/tables"
 )
+logger = logging.getLogger(__name__)
+
+tables = tables_repo.Tables()
 
 @router.get("/")
 def get_tables():
@@ -11,14 +18,27 @@ def get_tables():
   This will give you information regarding what is the current
   status of table i.e. whether it is reserved or not.
   """
-  return {"message": "Hello World"}
+  return tables.get_tables()
 
 @router.post("/reserve")
-def reserve_table():
+def reserve_table(reserve_details: table_models.TableReserveModel):
   """
   You can reserve a table by providing the table number
   """
-  return {"message": "Hello World"}
+  logger.info(f"Reserving table {reserve_details.table_id}")
+  try:
+    reserved = tables.reserve_table(
+      table_id=reserve_details.table_id
+    )
+    return {"reserved": reserved}
+  except tables_repo.TableNotFound as e:
+    return Response(
+      status_code=404, 
+      content=json.dumps({
+      "message": f"Table {e.table_id} not found"
+      }),
+      media_type="application/json"
+    )
 
 @router.post("/release")
 def release_table():

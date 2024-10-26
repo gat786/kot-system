@@ -30,8 +30,13 @@ def get_menu_item(item_id: str):
     with open("data/menu_flat.json") as f:
       data = f.read()
       menu_model = menu.Menu.model_validate_json(data)
+      # find item
       selected_item = [item for item in menu_model.items if item.item_id == item_id]
-      return selected_item
+      if len(selected_item) == 0:
+        return {
+          "message": "Item not found"
+        }
+      return selected_item[0]
   except FileNotFoundError:
     return {
       "message": "Menu not found, make sure you have run the transformer script"
@@ -47,8 +52,8 @@ def get_category(category: str):
     with open("data/menu_flat.json") as f:
       data = f.read()
       menu_model = menu.Menu.model_validate_json(data)
-      selected_item = [item for item in menu_model.items if item.category == category]
-      return selected_item
+      filtered_items = [item for item in menu_model.items if item.category == category]
+      return filtered_items
   except FileNotFoundError:
     return {
       "message": "Menu not found, make sure you have run the transformer script"
