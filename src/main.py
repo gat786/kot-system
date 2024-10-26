@@ -23,7 +23,7 @@ def run_server():
   """
   uvicorn.run(
     "api.root:api",
-    host="localhost",
+    host=environments.SERVER_HOST,
     port=int(environments.SERVER_PORT),
     reload=environments.ENVIRONMENT == environments.DEV_ENVIRONMENT
   )
