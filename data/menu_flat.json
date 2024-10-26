@@ -1,1737 +1,2086 @@
-[
-  {
-    "category": "south_indian_breakfast",
-    "name": "Steamed Idli",
-    "price": 70
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Masala Idli",
-    "price": 80
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Palak Idli",
-    "price": 95
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Idli Chilli",
-    "price": 120
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Idli 65",
-    "price": 125
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Rava Idli",
-    "price": 90
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Medu Wada",
-    "price": 70
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Idli Wada",
-    "price": 80
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Rasam Wada",
-    "price": 80
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Dosa",
-    "price": 70
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Sweet Coconut Dosa",
-    "price": 90
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Mysore Dosa",
-    "price": 100
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Onion Dosa",
-    "price": 90
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Rava Dosa",
-    "price": 110
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Onion Rava Dosa",
-    "price": 110
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Ghee Roast Dosa",
-    "price": 125
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Podi Dosa",
-    "price": 110
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Palak Dosa",
-    "price": 120
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Masala Dosa",
-    "price": 90
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Mysore Masala Dosa",
-    "price": 120
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Mysore Cheese Masala Dosa",
-    "price": 140
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Ghee Roast Masala Dosa",
-    "price": 140
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Mysore Rava Dosa",
-    "price": 130
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Podi Masala Dosa",
-    "price": 130
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Podi Ghee Masala Dosa",
-    "price": 140
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Paper Masala Dosa",
-    "price": 250
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Palak Masala Dosa",
-    "price": 150
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Egg Dosa",
-    "price": 120
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Egg Masala Dosa",
-    "price": 140
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Onion Egg Dosa",
-    "price": 140
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Mysore Egg Dosa",
-    "price": 160
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Egg Kheema Dosa",
-    "price": 150
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Chicken Kheema Dosa",
-    "price": 200
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Chicken Hariyali Dosa",
-    "price": 130
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Mysore Chicken Dosa",
-    "price": 160
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Plain Uttapam",
-    "price": 90
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Butter Uttapam",
-    "price": 100
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Podi Uttapam",
-    "price": 105
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Onion Uttapam",
-    "price": 110
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Mixed Uttapam",
-    "price": 125
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Mysore Uttapam",
-    "price": 150
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Podi Masala Uttapam",
-    "price": 150
-  },
-  {
-    "category": "south_indian_breakfast",
-    "name": "Uttapam Platter",
-    "price": 210
-  },
-  {
-    "category": "indian_appetizer_veg",
-    "name": "Hara Bhara Kebab",
-    "price": 250
-  },
-  {
-    "category": "indian_appetizer_veg",
-    "name": "Veg Kebab",
-    "price": 260
-  },
-  {
-    "category": "indian_appetizer_veg",
-    "name": "Veg Koliwada",
-    "price": 250
-  },
-  {
-    "category": "indian_appetizer_veg",
-    "name": "Chana Koliwada",
-    "price": 230
-  },
-  {
-    "category": "indian_appetizer_veg",
-    "name": "Chana Garlic Fry",
-    "price": 240
-  },
-  {
-    "category": "indian_appetizer_veg",
-    "name": "Veg Tava Fry",
-    "price": 250
-  },
-  {
-    "category": "indian_appetizer_veg",
-    "name": "Mushroom Koliwada",
-    "price": 260
-  },
-  {
-    "category": "indian_appetizer_veg",
-    "name": "Mushroom Butter Garlic Fry",
-    "price": 280
-  },
-  {
-    "category": "indian_appetizer_veg",
-    "name": "Veg Burasi Kebab",
-    "price": 300
-  },
-  {
-    "category": "indian_appetizer_veg",
-    "name": "Veg Cheese Lava Kebab",
-    "price": 330
-  },
-  {
-    "category": "indian_appetizer_veg",
-    "name": "Paneer Tava Fry",
-    "price": 290
-  },
-  {
-    "category": "indian_appetizer_veg",
-    "name": "Paneer Koliwada",
-    "price": 280
-  },
-  {
-    "category": "indian_appetizer_veg",
-    "name": "Paneer Butter Garlic",
-    "price": 290
-  },
-  {
-    "category": "indian_appetizer_veg",
-    "name": "Paneer Poppers",
-    "price": 300
-  },
-  {
-    "category": "indian_appetizer_veg",
-    "name": "Paneer Ghee Roast",
-    "price": 290
-  },
-  {
-    "category": "indian_appetizer_non_veg",
-    "name": "Chicken Tava Fry",
-    "price": 270
-  },
-  {
-    "category": "indian_appetizer_non_veg",
-    "name": "Chicken Masala Dry",
-    "price": 280
-  },
-  {
-    "category": "indian_appetizer_non_veg",
-    "name": "Vadval Green Sukkha Chicken",
-    "price": 300
-  },
-  {
-    "category": "indian_appetizer_non_veg",
-    "name": "Chicken Boti Dry",
-    "price": 280
-  },
-  {
-    "category": "indian_appetizer_non_veg",
-    "name": "Chicken Koliwada",
-    "price": 260
-  },
-  {
-    "category": "indian_appetizer_non_veg",
-    "name": "Chicken Ghee Roast",
-    "price": 300
-  },
-  {
-    "category": "indian_appetizer_non_veg",
-    "name": "Chicken Butter Garlic",
-    "price": 290
-  },
-  {
-    "category": "indian_appetizer_non_veg",
-    "name": "Chicken Cheese Lava Kebab",
-    "price": 330
-  },
-  {
-    "category": "indian_appetizer_non_veg",
-    "name": "Chicken Chapli Kebab",
-    "price": 300
-  },
-  {
-    "category": "indian_appetizer_non_veg",
-    "name": "Tehcha Chicken",
-    "price": 290
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Mushroom Tikka",
-    "price": 250
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Mushroom Duplex",
-    "price": 270
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Veg Kasta Kebab",
-    "price": 260
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Tandoori Aloo",
-    "price": 240
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Veg Alishan Kebab",
-    "price": 275
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Veg Seekh Kebab",
-    "price": 280
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Paneer Tikka",
-    "price": 260
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Paneer Pahadi Tikka",
-    "price": 270
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Paneer Hariyali Tikka",
-    "price": 275
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Paneer Banjara Tikka",
-    "price": 275
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Paneer Malai Tikka",
-    "price": 280
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Paneer Multani Kebab",
-    "price": 300
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Paneer Gulistan Kebab",
-    "price": 330
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Paneer Sholay Kebab",
-    "price": 350
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Paneer Seekh Kebab",
-    "price": 320
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Paneer Afghani Tikka",
-    "price": 300
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Veg Tandoor Platter (8 pcs)",
-    "price": 500
-  },
-  {
-    "category": "tandoor_starter_veg",
-    "name": "Veg Tandoor Platter (16 pcs)",
-    "price": 750
-  },
-  {
-    "category": "tandoor_starter_non_veg",
-    "name": "Chicken Tikka",
-    "price": 280
-  },
-  {
-    "category": "tandoor_starter_non_veg",
-    "name": "Chicken Hariyali Tikka",
-    "price": 290
-  },
-  {
-    "category": "tandoor_starter_non_veg",
-    "name": "Chicken Pahadi Tikka",
-    "price": 280
-  },
-  {
-    "category": "tandoor_starter_non_veg",
-    "name": "Chicken Malai Tikka",
-    "price": 300
-  },
-  {
-    "category": "tandoor_starter_non_veg",
-    "name": "Chicken Banjara Tikka",
-    "price": 295
-  },
-  {
-    "category": "tandoor_starter_non_veg",
-    "name": "Chicken Seekh Kebab",
-    "price": 320
-  },
-  {
-    "category": "tandoor_starter_non_veg",
-    "name": "Chicken Multani Kebab",
-    "price": 320
-  },
-  {
-    "category": "tandoor_starter_non_veg",
-    "name": "Chicken Gulabi Kebab",
-    "price": 350
-  },
-  {
-    "category": "tandoor_starter_non_veg",
-    "name": "Chicken Rozalla Kebab",
-    "price": 370
-  },
-  {
-    "category": "tandoor_starter_non_veg",
-    "name": "Chicken Cheese Quarters",
-    "price": 400
-  },
-  {
-    "category": "tandoor_starter_non_veg",
-    "name": "Chicken Angara Kebab",
-    "price": 380
-  },
-  {
-    "category": "tandoor_starter_non_veg",
-    "name": "Chicken Tangadi Kebab",
-    "price": 370
-  },
-  {
-    "category": "tandoor_starter_non_veg",
-    "name": "Chicken Kali Miri Tikka",
-    "price": 280
-  },
-  {
-    "category": "tandoor_starter_non_veg",
-    "name": "Non-Veg Platter (8 pcs)",
-    "price": 800
-  },
-  {
-    "category": "tandoor_starter_non_veg",
-    "name": "Non-Veg Platter (16 pcs)",
-    "price": 1250
-  },
-  {
-    "category": "sides",
-    "name": "Roasted Papad",
-    "price": 30
-  },
-  {
-    "category": "sides",
-    "name": "Roasted Masala Papad",
-    "price": 60
-  },
-  {
-    "category": "sides",
-    "name": "Fry Papad",
-    "price": 40
-  },
-  {
-    "category": "sides",
-    "name": "Fry Masala Papad",
-    "price": 70
-  },
-  {
-    "category": "sides",
-    "name": "Khichiya Papad",
-    "price": 40
-  },
-  {
-    "category": "sides",
-    "name": "Khichiya Masala Papad",
-    "price": 70
-  },
-  {
-    "category": "sides",
-    "name": "Papadam",
-    "price": 30
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Veg Kadai",
-    "price": 235
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Veg Handi",
-    "price": 235
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Veg Diwani Handi",
-    "price": 240
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Veg Kheema Masala",
-    "price": 240
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Veg Hariyali",
-    "price": 235
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Veg Kolhapuri",
-    "price": 255
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Babycorn Mushroom Mas",
-    "price": 235
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Hariyali Mushroom Mas",
-    "price": 235
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Mushroom Handi/Kadai",
-    "price": 250
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Paneer Do Pyaza",
-    "price": 260
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Paneer Kadai",
-    "price": 250
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Paneer Handi",
-    "price": 250
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Paneer Palak",
-    "price": 240
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Paneer Kolhapuri",
-    "price": 260
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Paneer Bhurji",
-    "price": 240
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Paneer Makhanwala",
-    "price": 260
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Paneer Butter Masala",
-    "price": 270
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Paneer Tikka Masala",
-    "price": 265
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Mattar Paneer",
-    "price": 240
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Subz Vidhesh Tarkari",
-    "price": 300
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Subz Miloni",
-    "price": 270
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Shahi Corn Masala",
-    "price": 265
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Veg Mehfil",
-    "price": 280
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Veg Aflatoon",
-    "price": 270
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Veg Maratha",
-    "price": 290
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Veg Laziz",
-    "price": 285
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Dingri Dolma",
-    "price": 290
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Paneer Rara",
-    "price": 290
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Paneer Lahori",
-    "price": 285
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Paneer Kurchan",
-    "price": 270
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Paneer Peshawari",
-    "price": 275
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Paneer Sham Savera",
-    "price": 300
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Paneer Changezi",
-    "price": 275
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Paneer Moti Masala",
-    "price": 280
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Amritsari Bhurji",
-    "price": 295
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Dal Fry",
-    "price": 160
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Dal Tadka",
-    "price": 180
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Dal Palak",
-    "price": 190
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Dal Kolhapuri",
-    "price": 190
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Dal Amritsari",
-    "price": 220
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Punjabi Pakoda Kadhi",
-    "price": 180
-  },
-  {
-    "category": "main_course_veg",
-    "name": "Dal Double Tadka",
-    "price": 200
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Chicken Bhuna Masala",
-    "price": 260
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Chicken Kadai",
-    "price": 255
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Chicken Handi",
-    "price": 255
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Chicken Kolhapuri",
-    "price": 260
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Tava Chicken Masala",
-    "price": 270
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Chicken Boti Masala",
-    "price": 260
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Chicken Hariyali Masala",
-    "price": 270
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Chicken Malai Masala",
-    "price": 290
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Chicken Dabba Gosht",
-    "price": 330
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Chicken Do Pyaza",
-    "price": 290
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Chicken Butter Masala",
-    "price": 300
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Murgh Angara Masala",
-    "price": 320
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Murgh Chingari",
-    "price": 330
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Bombay Kheema Masala",
-    "price": 330
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Chicken Rada",
-    "price": 340
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Chicken Lababdar",
-    "price": 330
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Chicken Shabnami",
-    "price": 290
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Egg Masala",
-    "price": 180
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Egg Curry (Red)",
-    "price": 220
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Egg Curry (Green)",
-    "price": 220
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Egg Lababdar",
-    "price": 240
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Egg Cheese Masala",
-    "price": 260
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Egg Bhurji Masala",
-    "price": 230
-  },
-  {
-    "category": "main_course_non_veg",
-    "name": "Egg Hariyali",
-    "price": 250
-  },
-  {
-    "category": "rice_and_biryani_veg",
-    "name": "Steamed Rice",
-    "price": 150
-  },
-  {
-    "category": "rice_and_biryani_veg",
-    "name": "Jeera Rice",
-    "price": 160
-  },
-  {
-    "category": "rice_and_biryani_veg",
-    "name": "Lemon Rice",
-    "price": 180
-  },
-  {
-    "category": "rice_and_biryani_veg",
-    "name": "Tomato Rice",
-    "price": 190
-  },
-  {
-    "category": "rice_and_biryani_veg",
-    "name": "Curd Rice",
-    "price": 180
-  },
-  {
-    "category": "rice_and_biryani_veg",
-    "name": "Mutter Pulav",
-    "price": 160
-  },
-  {
-    "category": "rice_and_biryani_veg",
-    "name": "Veg Pulav",
-    "price": 200
-  },
-  {
-    "category": "rice_and_biryani_veg",
-    "name": "Paneer Pulav",
-    "price": 230
-  },
-  {
-    "category": "rice_and_biryani_veg",
-    "name": "Cheese Pulav",
-    "price": 250
-  },
-  {
-    "category": "rice_and_biryani_veg",
-    "name": "Veg Biryani",
-    "price": 200
-  },
-  {
-    "category": "rice_and_biryani_veg",
-    "name": "Veg Hyderabadi Biryani",
-    "price": 220
-  },
-  {
-    "category": "rice_and_biryani_veg",
-    "name": "Paneer Biryani",
-    "price": 270
-  },
-  {
-    "category": "rice_and_biryani_veg",
-    "name": "Paneer Tikka Biryani",
-    "price": 300
-  },
-  {
-    "category": "rice_and_biryani_veg",
-    "name": "Paneer Lajawab Biryani",
-    "price": 330
-  },
-  {
-    "category": "rice_and_biryani_veg",
-    "name": "Paneer Hyderabadi Biryani",
-    "price": 320
-  },
-  {
-    "category": "rice_and_biryani_non_veg",
-    "name": "Egg Biryani",
-    "price": 220
-  },
-  {
-    "category": "rice_and_biryani_non_veg",
-    "name": "Chicken Biryani",
-    "price": 260
-  },
-  {
-    "category": "rice_and_biryani_non_veg",
-    "name": "Chicken Tikka Biryani",
-    "price": 300
-  },
-  {
-    "category": "rice_and_biryani_non_veg",
-    "name": "Chicken Handi Biryani",
-    "price": 300
-  },
-  {
-    "category": "rice_and_biryani_non_veg",
-    "name": "Chicken Hyderabadi Biryani",
-    "price": 290
-  },
-  {
-    "category": "rice_and_biryani_non_veg",
-    "name": "Chicken Lajawab Biryani",
-    "price": 330
-  },
-  {
-    "category": "rice_and_biryani_non_veg",
-    "name": "Chicken Pulav",
-    "price": 280
-  },
-  {
-    "category": "rice_and_biryani_non_veg",
-    "name": "Chicken Masala Rice",
-    "price": 270
-  },
-  {
-    "category": "rice_and_biryani_non_veg",
-    "name": "Chicken Tava Pulav",
-    "price": 280
-  },
-  {
-    "category": "rice_and_biryani_non_veg",
-    "name": "Egg Pulav",
-    "price": 200
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Roti",
-    "price": 30
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Butter Roti",
-    "price": 40
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Lacha Paratha",
-    "price": 60
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Plain Paratha",
-    "price": 50
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Butter Paratha",
-    "price": 60
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Aloo Paratha",
-    "price": 80
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Onion Paratha",
-    "price": 80
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Paneer Paratha",
-    "price": 120
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Cheese Paratha",
-    "price": 120
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Gobi Paratha",
-    "price": 100
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Mix Veg Paratha",
-    "price": 120
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Chilly Cheese Paratha",
-    "price": 140
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Missi Roti",
-    "price": 80
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Naan",
-    "price": 40
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Butter Naan",
-    "price": 60
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Cheese Naan",
-    "price": 75
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Cheese Garlic Naan",
-    "price": 95
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Peshwari Naan",
-    "price": 100
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Chilli Milli Naan",
-    "price": 120
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Plain Kulcha",
-    "price": 40
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Butter Kulcha",
-    "price": 60
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Cheese Kulcha",
-    "price": 75
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Onion Kulcha",
-    "price": 80
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Stuff Kulcha",
-    "price": 120
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Egg Paratha",
-    "price": 110
-  },
-  {
-    "category": "breads_and_parathas",
-    "name": "Chicken Paratha",
-    "price": 150
-  },
-  {
-    "category": "soups",
-    "name": "Veg Manchow Soup",
-    "price": 160
-  },
-  {
-    "category": "soups",
-    "name": "Veg Hot and Sour",
-    "price": 170
-  },
-  {
-    "category": "soups",
-    "name": "Veg Lemon Coriander Soup",
-    "price": 170
-  },
-  {
-    "category": "soups",
-    "name": "Veg Sweet Corn Soup",
-    "price": 180
-  },
-  {
-    "category": "soups",
-    "name": "Chicken Manchow Soup",
-    "price": 180
-  },
-  {
-    "category": "soups",
-    "name": "Chicken Hot and Sour",
-    "price": 195
-  },
-  {
-    "category": "soups",
-    "name": "Chicken Lemon Coriander Soup",
-    "price": 195
-  },
-  {
-    "category": "soups",
-    "name": "Chicken Sweet Corn Soup",
-    "price": 200
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Veg Manchurian Dry",
-    "price": 250
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Veg Manchurian Gravy",
-    "price": 280
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Paneer Manchurian Dry",
-    "price": 280
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Paneer Manchurian Gravy",
-    "price": 310
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Mushroom Manchurian Dry",
-    "price": 300
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Mushroom Manchurian Gravy",
-    "price": 330
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Paneer Chilly Dry",
-    "price": 280
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Paneer Chilly Gravy",
-    "price": 300
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Mushroom Chilly Dry",
-    "price": 300
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Mushroom Chilly Gravy",
-    "price": 330
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Veg Crispy",
-    "price": 280
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Paneer Crispy",
-    "price": 325
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Mushroom Crispy",
-    "price": 325
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Veg Chinese Bhel",
-    "price": 200
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Chicken Chilly Dry",
-    "price": 280
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Chicken Chilly Gravy",
-    "price": 320
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Chicken Crispy",
-    "price": 340
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Spicy Singapore Chicken",
-    "price": 350
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Chicken Dragon",
-    "price": 350
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Chicken Adobo",
-    "price": 350
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Chicken 65",
-    "price": 285
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Chicken Kungpao",
-    "price": 300
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Chicken Lollipop",
-    "price": 280
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Chicken Lollipop Gravy",
-    "price": 300
-  },
-  {
-    "category": "chinese_appetizers",
-    "name": "Chicken in Choice of Sauce",
-    "price": 300
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Veg Fried Rice",
-    "price": 240
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Veg Schezwan Fried Rice",
-    "price": 260
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Veg Burnt Garlic Rice",
-    "price": 250
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Veg Triple Schezwan Rice",
-    "price": 320
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Veg Manchurian Rice",
-    "price": 280
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Veg Singapore Rice",
-    "price": 295
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Veg Hongkong Rice",
-    "price": 320
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Veg Chopper Rice",
-    "price": 320
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Veg Hakka Noodles",
-    "price": 260
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Veg Schezwan Noodles",
-    "price": 280
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Veg Burnt Garlic Noodles",
-    "price": 275
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Veg Triple Noodles",
-    "price": 350
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Veg Manchurian Noodles",
-    "price": 300
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Veg Singapore Noodles",
-    "price": 320
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Veg Hongkong Noodles",
-    "price": 350
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Chicken Fried Rice",
-    "price": 270
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Chicken Schezwan Fried Rice",
-    "price": 290
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Chicken Burnt Garlic Rice",
-    "price": 280
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Chicken Triple Schezwan Rice",
-    "price": 360
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Chicken Manchurian Rice",
-    "price": 320
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Chicken Singapore Rice",
-    "price": 325
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Chicken Hongkong Rice",
-    "price": 350
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Chicken Chopper Rice",
-    "price": 285
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Chicken Hakka Noodles",
-    "price": 310
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Chicken Schezwan Noodles",
-    "price": 295
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Chicken Burnt Garlic Noodles",
-    "price": 380
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Chicken Triple Noodles",
-    "price": 335
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Chicken Manchurian Noodles",
-    "price": 350
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Chicken Singapore Noodles",
-    "price": 380
-  },
-  {
-    "category": "oriental_mains",
-    "name": "Chicken Hongkong Noodles",
-    "price": 380
-  },
-  {
-    "category": "mutton",
-    "name": "Mutton Ghee Roast",
-    "price": 350
-  },
-  {
-    "category": "mutton",
-    "name": "Mutton Chaap",
-    "price": 450
-  },
-  {
-    "category": "mutton",
-    "name": "Mutton Seekh Kebab",
-    "price": 350
-  },
-  {
-    "category": "mutton",
-    "name": "Mutton Galawat Kebab",
-    "price": 400
-  },
-  {
-    "category": "mutton",
-    "name": "Dal Gosh",
-    "price": 380
-  },
-  {
-    "category": "mutton",
-    "name": "Mutton Saoji",
-    "price": 350
-  },
-  {
-    "category": "mutton",
-    "name": "Mutton Diwani",
-    "price": 400
-  },
-  {
-    "category": "malvani",
-    "name": "Chicken Malwani Masala",
-    "price": 280
-  },
-  {
-    "category": "malvani",
-    "name": "Chicken Kolhapuri",
-    "price": 280
-  },
-  {
-    "category": "malvani",
-    "name": "Chicken Saoji",
-    "price": 300
-  },
-  {
-    "category": "malvani",
-    "name": "Chicken Maratha",
-    "price": 300
-  },
-  {
-    "category": "malvani",
-    "name": "Malwan Sukka Chicken",
-    "price": 300
-  },
-  {
-    "category": "malvani",
-    "name": "Tambda Rassa",
-    "price": 150
-  },
-  {
-    "category": "malvani",
-    "name": "Pandhra Rassa",
-    "price": 150
-  },
-  {
-    "category": "malvani",
-    "name": "Chicken Malwani Kheema",
-    "price": 290
-  },
-  {
-    "category": "malvani",
-    "name": "Chicken Kolhapuri Kheema",
-    "price": 290
-  },
-  {
-    "category": "malvani",
-    "name": "Chicken Saoji Kheema",
-    "price": 310
-  },
-  {
-    "category": "malvani",
-    "name": "Chicken Maratha Kheema",
-    "price": 310
-  },
-  {
-    "category": "malvani",
-    "name": "Sukka Chicken Kheema",
-    "price": 310
-  },
-  {
-    "category": "4states_special_non_veg",
-    "name": "Chicken Nargisi Kebab",
-    "price": 340
-  },
-  {
-    "category": "4states_special_non_veg",
-    "name": "Chicken Dalcha",
-    "price": 350
-  },
-  {
-    "category": "4states_special_non_veg",
-    "name": "Delhi Butter Chicken",
-    "price": 280
-  },
-  {
-    "category": "4states_special_non_veg",
-    "name": "Delli 6 Chicken (Half)",
-    "price": 575
-  },
-  {
-    "category": "4states_special_non_veg",
-    "name": "Delli 6 Chicken (Full)",
-    "price": 850
-  },
-  {
-    "category": "4states_special_non_veg",
-    "name": "Aslam Chicken (Half)",
-    "price": 625
-  },
-  {
-    "category": "4states_special_non_veg",
-    "name": "Aslam Chicken (Full)",
-    "price": 890
-  },
-  {
-    "category": "4states_special_non_veg",
-    "name": "Chicken Kepsa Rice (Half)",
-    "price": 879
-  },
-  {
-    "category": "4states_special_non_veg",
-    "name": "Chicken Kepsa Rice (Full)",
-    "price": 1369
-  },
-  {
-    "category": "4states_special_non_veg",
-    "name": "Chicken Tikka Kepsa Rice (Half)",
-    "price": 989
-  },
-  {
-    "category": "4states_special_non_veg",
-    "name": "Chicken Tikka Kepsa Rice (Full)",
-    "price": 1485
-  },
-  {
-    "category": "4states_special_veg",
-    "name": "4States Dal Tadka",
-    "price": 240
-  },
-  {
-    "category": "4states_special_veg",
-    "name": "Amritsari Pindi Chole",
-    "price": 280
-  },
-  {
-    "category": "4states_special_veg",
-    "name": "Dilli 6 Paneer Butter Masala",
-    "price": 320
-  },
-  {
-    "category": "4states_special_veg",
-    "name": "Dilli 6 Mushroom Butter Masala",
-    "price": 340
-  },
-  {
-    "category": "4states_special_veg",
-    "name": "4States Special Veg",
-    "price": 299
-  },
-  {
-    "category": "4states_special_veg",
-    "name": "Paneer Mumtaz",
-    "price": 320
-  },
-  {
-    "category": "4states_special_veg",
-    "name": "4States Special Veg Biryani",
-    "price": 300
-  },
-  {
-    "category": "4states_special_veg",
-    "name": "Kepsa Rice (Veg)",
-    "price": 700
-  },
-  {
-    "category": "4states_special_veg",
-    "name": "Kepsa Rice (Paneer)",
-    "price": 870
-  },
-  {
-    "category": "4states_special_veg",
-    "name": "Kepsa Rice (Veg Tandoor)",
-    "price": 970
-  },
-  {
-    "category": "4states_special_veg",
-    "name": "Charcoal Biryani",
-    "price": 450
-  },
-  {
-    "category": "beverages",
-    "name": "Bottled Water",
-    "price": 20
-  },
-  {
-    "category": "beverages",
-    "name": "Lassi",
-    "price": 120
-  },
-  {
-    "category": "beverages",
-    "name": "Masala Taak",
-    "price": 80
-  },
-  {
-    "category": "beverages",
-    "name": "Kokum Sharbat",
-    "price": 70
-  },
-  {
-    "category": "beverages",
-    "name": "Lemon Soda",
-    "price": 70
-  },
-  {
-    "category": "beverages",
-    "name": "Milkshake (Banana/Oats)",
-    "price": 120
-  },
-  {
-    "category": "beverages",
-    "name": "French Press Coffee",
-    "price": 100
-  },
-  {
-    "category": "beverages",
-    "name": "Masala Chai",
-    "price": 75
-  },
-  {
-    "category": "beverages",
-    "name": "Mojito",
-    "price": 160
-  },
-  {
-    "category": "beverages",
-    "name": "Chilli Guava",
-    "price": 180
-  },
-  {
-    "category": "desserts",
-    "name": "Seviya",
-    "price": 90
-  },
-  {
-    "category": "desserts",
-    "name": "Ada Payasum",
-    "price": 120
-  },
-  {
-    "category": "desserts",
-    "name": "Gulab Jamun",
-    "price": 60
-  },
-  {
-    "category": "desserts",
-    "name": "Kulfi Ice Cream",
-    "price": 70
-  },
-  {
-    "category": "desserts",
-    "name": "Kheer",
-    "price": 80
-  },
-  {
-    "category": "desserts",
-    "name": "Sheer Khurma",
-    "price": 120
-  },
-  {
-    "category": "desserts",
-    "name": "Moong Dal Halwa",
-    "price": 150
-  },
-  {
-    "category": "desserts",
-    "name": "Gulab Jamun with Vanilla Ice-Cream",
-    "price": 80
-  }
-]
+{
+  "items": [
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_0",
+      "name": "Steamed Idli",
+      "price": 70
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_1",
+      "name": "Masala Idli",
+      "price": 80
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_2",
+      "name": "Palak Idli",
+      "price": 95
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_3",
+      "name": "Idli Chilli",
+      "price": 120
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_4",
+      "name": "Idli 65",
+      "price": 125
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_5",
+      "name": "Rava Idli",
+      "price": 90
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_6",
+      "name": "Medu Wada",
+      "price": 70
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_7",
+      "name": "Idli Wada",
+      "price": 80
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_8",
+      "name": "Rasam Wada",
+      "price": 80
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_9",
+      "name": "Dosa",
+      "price": 70
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_10",
+      "name": "Sweet Coconut Dosa",
+      "price": 90
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_11",
+      "name": "Mysore Dosa",
+      "price": 100
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_12",
+      "name": "Onion Dosa",
+      "price": 90
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_13",
+      "name": "Rava Dosa",
+      "price": 110
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_14",
+      "name": "Onion Rava Dosa",
+      "price": 110
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_15",
+      "name": "Ghee Roast Dosa",
+      "price": 125
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_16",
+      "name": "Podi Dosa",
+      "price": 110
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_17",
+      "name": "Palak Dosa",
+      "price": 120
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_18",
+      "name": "Masala Dosa",
+      "price": 90
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_19",
+      "name": "Mysore Masala Dosa",
+      "price": 120
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_20",
+      "name": "Mysore Cheese Masala Dosa",
+      "price": 140
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_21",
+      "name": "Ghee Roast Masala Dosa",
+      "price": 140
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_22",
+      "name": "Mysore Rava Dosa",
+      "price": 130
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_23",
+      "name": "Podi Masala Dosa",
+      "price": 130
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_24",
+      "name": "Podi Ghee Masala Dosa",
+      "price": 140
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_25",
+      "name": "Paper Masala Dosa",
+      "price": 250
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_26",
+      "name": "Palak Masala Dosa",
+      "price": 150
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_27",
+      "name": "Egg Dosa",
+      "price": 120
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_28",
+      "name": "Egg Masala Dosa",
+      "price": 140
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_29",
+      "name": "Onion Egg Dosa",
+      "price": 140
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_30",
+      "name": "Mysore Egg Dosa",
+      "price": 160
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_31",
+      "name": "Egg Kheema Dosa",
+      "price": 150
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_32",
+      "name": "Chicken Kheema Dosa",
+      "price": 200
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_33",
+      "name": "Chicken Hariyali Dosa",
+      "price": 130
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_34",
+      "name": "Mysore Chicken Dosa",
+      "price": 160
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_35",
+      "name": "Plain Uttapam",
+      "price": 90
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_36",
+      "name": "Butter Uttapam",
+      "price": 100
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_37",
+      "name": "Podi Uttapam",
+      "price": 105
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_38",
+      "name": "Onion Uttapam",
+      "price": 110
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_39",
+      "name": "Mixed Uttapam",
+      "price": 125
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_40",
+      "name": "Mysore Uttapam",
+      "price": 150
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_41",
+      "name": "Podi Masala Uttapam",
+      "price": 150
+    },
+    {
+      "category": "south_indian_breakfast",
+      "item_id": "south_indian_breakfast_42",
+      "name": "Uttapam Platter",
+      "price": 210
+    },
+    {
+      "category": "indian_appetizer_veg",
+      "item_id": "indian_appetizer_veg_0",
+      "name": "Hara Bhara Kebab",
+      "price": 250
+    },
+    {
+      "category": "indian_appetizer_veg",
+      "item_id": "indian_appetizer_veg_1",
+      "name": "Veg Kebab",
+      "price": 260
+    },
+    {
+      "category": "indian_appetizer_veg",
+      "item_id": "indian_appetizer_veg_2",
+      "name": "Veg Koliwada",
+      "price": 250
+    },
+    {
+      "category": "indian_appetizer_veg",
+      "item_id": "indian_appetizer_veg_3",
+      "name": "Chana Koliwada",
+      "price": 230
+    },
+    {
+      "category": "indian_appetizer_veg",
+      "item_id": "indian_appetizer_veg_4",
+      "name": "Chana Garlic Fry",
+      "price": 240
+    },
+    {
+      "category": "indian_appetizer_veg",
+      "item_id": "indian_appetizer_veg_5",
+      "name": "Veg Tava Fry",
+      "price": 250
+    },
+    {
+      "category": "indian_appetizer_veg",
+      "item_id": "indian_appetizer_veg_6",
+      "name": "Mushroom Koliwada",
+      "price": 260
+    },
+    {
+      "category": "indian_appetizer_veg",
+      "item_id": "indian_appetizer_veg_7",
+      "name": "Mushroom Butter Garlic Fry",
+      "price": 280
+    },
+    {
+      "category": "indian_appetizer_veg",
+      "item_id": "indian_appetizer_veg_8",
+      "name": "Veg Burasi Kebab",
+      "price": 300
+    },
+    {
+      "category": "indian_appetizer_veg",
+      "item_id": "indian_appetizer_veg_9",
+      "name": "Veg Cheese Lava Kebab",
+      "price": 330
+    },
+    {
+      "category": "indian_appetizer_veg",
+      "item_id": "indian_appetizer_veg_10",
+      "name": "Paneer Tava Fry",
+      "price": 290
+    },
+    {
+      "category": "indian_appetizer_veg",
+      "item_id": "indian_appetizer_veg_11",
+      "name": "Paneer Koliwada",
+      "price": 280
+    },
+    {
+      "category": "indian_appetizer_veg",
+      "item_id": "indian_appetizer_veg_12",
+      "name": "Paneer Butter Garlic",
+      "price": 290
+    },
+    {
+      "category": "indian_appetizer_veg",
+      "item_id": "indian_appetizer_veg_13",
+      "name": "Paneer Poppers",
+      "price": 300
+    },
+    {
+      "category": "indian_appetizer_veg",
+      "item_id": "indian_appetizer_veg_14",
+      "name": "Paneer Ghee Roast",
+      "price": 290
+    },
+    {
+      "category": "indian_appetizer_non_veg",
+      "item_id": "indian_appetizer_non_veg_0",
+      "name": "Chicken Tava Fry",
+      "price": 270
+    },
+    {
+      "category": "indian_appetizer_non_veg",
+      "item_id": "indian_appetizer_non_veg_1",
+      "name": "Chicken Masala Dry",
+      "price": 280
+    },
+    {
+      "category": "indian_appetizer_non_veg",
+      "item_id": "indian_appetizer_non_veg_2",
+      "name": "Vadval Green Sukkha Chicken",
+      "price": 300
+    },
+    {
+      "category": "indian_appetizer_non_veg",
+      "item_id": "indian_appetizer_non_veg_3",
+      "name": "Chicken Boti Dry",
+      "price": 280
+    },
+    {
+      "category": "indian_appetizer_non_veg",
+      "item_id": "indian_appetizer_non_veg_4",
+      "name": "Chicken Koliwada",
+      "price": 260
+    },
+    {
+      "category": "indian_appetizer_non_veg",
+      "item_id": "indian_appetizer_non_veg_5",
+      "name": "Chicken Ghee Roast",
+      "price": 300
+    },
+    {
+      "category": "indian_appetizer_non_veg",
+      "item_id": "indian_appetizer_non_veg_6",
+      "name": "Chicken Butter Garlic",
+      "price": 290
+    },
+    {
+      "category": "indian_appetizer_non_veg",
+      "item_id": "indian_appetizer_non_veg_7",
+      "name": "Chicken Cheese Lava Kebab",
+      "price": 330
+    },
+    {
+      "category": "indian_appetizer_non_veg",
+      "item_id": "indian_appetizer_non_veg_8",
+      "name": "Chicken Chapli Kebab",
+      "price": 300
+    },
+    {
+      "category": "indian_appetizer_non_veg",
+      "item_id": "indian_appetizer_non_veg_9",
+      "name": "Tehcha Chicken",
+      "price": 290
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_0",
+      "name": "Mushroom Tikka",
+      "price": 250
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_1",
+      "name": "Mushroom Duplex",
+      "price": 270
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_2",
+      "name": "Veg Kasta Kebab",
+      "price": 260
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_3",
+      "name": "Tandoori Aloo",
+      "price": 240
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_4",
+      "name": "Veg Alishan Kebab",
+      "price": 275
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_5",
+      "name": "Veg Seekh Kebab",
+      "price": 280
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_6",
+      "name": "Paneer Tikka",
+      "price": 260
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_7",
+      "name": "Paneer Pahadi Tikka",
+      "price": 270
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_8",
+      "name": "Paneer Hariyali Tikka",
+      "price": 275
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_9",
+      "name": "Paneer Banjara Tikka",
+      "price": 275
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_10",
+      "name": "Paneer Malai Tikka",
+      "price": 280
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_11",
+      "name": "Paneer Multani Kebab",
+      "price": 300
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_12",
+      "name": "Paneer Gulistan Kebab",
+      "price": 330
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_13",
+      "name": "Paneer Sholay Kebab",
+      "price": 350
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_14",
+      "name": "Paneer Seekh Kebab",
+      "price": 320
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_15",
+      "name": "Paneer Afghani Tikka",
+      "price": 300
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_16",
+      "name": "Veg Tandoor Platter (8 pcs)",
+      "price": 500
+    },
+    {
+      "category": "tandoor_starter_veg",
+      "item_id": "tandoor_starter_veg_17",
+      "name": "Veg Tandoor Platter (16 pcs)",
+      "price": 750
+    },
+    {
+      "category": "tandoor_starter_non_veg",
+      "item_id": "tandoor_starter_non_veg_0",
+      "name": "Chicken Tikka",
+      "price": 280
+    },
+    {
+      "category": "tandoor_starter_non_veg",
+      "item_id": "tandoor_starter_non_veg_1",
+      "name": "Chicken Hariyali Tikka",
+      "price": 290
+    },
+    {
+      "category": "tandoor_starter_non_veg",
+      "item_id": "tandoor_starter_non_veg_2",
+      "name": "Chicken Pahadi Tikka",
+      "price": 280
+    },
+    {
+      "category": "tandoor_starter_non_veg",
+      "item_id": "tandoor_starter_non_veg_3",
+      "name": "Chicken Malai Tikka",
+      "price": 300
+    },
+    {
+      "category": "tandoor_starter_non_veg",
+      "item_id": "tandoor_starter_non_veg_4",
+      "name": "Chicken Banjara Tikka",
+      "price": 295
+    },
+    {
+      "category": "tandoor_starter_non_veg",
+      "item_id": "tandoor_starter_non_veg_5",
+      "name": "Chicken Seekh Kebab",
+      "price": 320
+    },
+    {
+      "category": "tandoor_starter_non_veg",
+      "item_id": "tandoor_starter_non_veg_6",
+      "name": "Chicken Multani Kebab",
+      "price": 320
+    },
+    {
+      "category": "tandoor_starter_non_veg",
+      "item_id": "tandoor_starter_non_veg_7",
+      "name": "Chicken Gulabi Kebab",
+      "price": 350
+    },
+    {
+      "category": "tandoor_starter_non_veg",
+      "item_id": "tandoor_starter_non_veg_8",
+      "name": "Chicken Rozalla Kebab",
+      "price": 370
+    },
+    {
+      "category": "tandoor_starter_non_veg",
+      "item_id": "tandoor_starter_non_veg_9",
+      "name": "Chicken Cheese Quarters",
+      "price": 400
+    },
+    {
+      "category": "tandoor_starter_non_veg",
+      "item_id": "tandoor_starter_non_veg_10",
+      "name": "Chicken Angara Kebab",
+      "price": 380
+    },
+    {
+      "category": "tandoor_starter_non_veg",
+      "item_id": "tandoor_starter_non_veg_11",
+      "name": "Chicken Tangadi Kebab",
+      "price": 370
+    },
+    {
+      "category": "tandoor_starter_non_veg",
+      "item_id": "tandoor_starter_non_veg_12",
+      "name": "Chicken Kali Miri Tikka",
+      "price": 280
+    },
+    {
+      "category": "tandoor_starter_non_veg",
+      "item_id": "tandoor_starter_non_veg_13",
+      "name": "Non-Veg Platter (8 pcs)",
+      "price": 800
+    },
+    {
+      "category": "tandoor_starter_non_veg",
+      "item_id": "tandoor_starter_non_veg_14",
+      "name": "Non-Veg Platter (16 pcs)",
+      "price": 1250
+    },
+    {
+      "category": "sides",
+      "item_id": "sides_0",
+      "name": "Roasted Papad",
+      "price": 30
+    },
+    {
+      "category": "sides",
+      "item_id": "sides_1",
+      "name": "Roasted Masala Papad",
+      "price": 60
+    },
+    {
+      "category": "sides",
+      "item_id": "sides_2",
+      "name": "Fry Papad",
+      "price": 40
+    },
+    {
+      "category": "sides",
+      "item_id": "sides_3",
+      "name": "Fry Masala Papad",
+      "price": 70
+    },
+    {
+      "category": "sides",
+      "item_id": "sides_4",
+      "name": "Khichiya Papad",
+      "price": 40
+    },
+    {
+      "category": "sides",
+      "item_id": "sides_5",
+      "name": "Khichiya Masala Papad",
+      "price": 70
+    },
+    {
+      "category": "sides",
+      "item_id": "sides_6",
+      "name": "Papadam",
+      "price": 30
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_0",
+      "name": "Veg Kadai",
+      "price": 235
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_1",
+      "name": "Veg Handi",
+      "price": 235
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_2",
+      "name": "Veg Diwani Handi",
+      "price": 240
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_3",
+      "name": "Veg Kheema Masala",
+      "price": 240
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_4",
+      "name": "Veg Hariyali",
+      "price": 235
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_5",
+      "name": "Veg Kolhapuri",
+      "price": 255
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_6",
+      "name": "Babycorn Mushroom Mas",
+      "price": 235
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_7",
+      "name": "Hariyali Mushroom Mas",
+      "price": 235
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_8",
+      "name": "Mushroom Handi/Kadai",
+      "price": 250
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_9",
+      "name": "Paneer Do Pyaza",
+      "price": 260
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_10",
+      "name": "Paneer Kadai",
+      "price": 250
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_11",
+      "name": "Paneer Handi",
+      "price": 250
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_12",
+      "name": "Paneer Palak",
+      "price": 240
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_13",
+      "name": "Paneer Kolhapuri",
+      "price": 260
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_14",
+      "name": "Paneer Bhurji",
+      "price": 240
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_15",
+      "name": "Paneer Makhanwala",
+      "price": 260
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_16",
+      "name": "Paneer Butter Masala",
+      "price": 270
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_17",
+      "name": "Paneer Tikka Masala",
+      "price": 265
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_18",
+      "name": "Mattar Paneer",
+      "price": 240
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_19",
+      "name": "Subz Vidhesh Tarkari",
+      "price": 300
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_20",
+      "name": "Subz Miloni",
+      "price": 270
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_21",
+      "name": "Shahi Corn Masala",
+      "price": 265
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_22",
+      "name": "Veg Mehfil",
+      "price": 280
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_23",
+      "name": "Veg Aflatoon",
+      "price": 270
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_24",
+      "name": "Veg Maratha",
+      "price": 290
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_25",
+      "name": "Veg Laziz",
+      "price": 285
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_26",
+      "name": "Dingri Dolma",
+      "price": 290
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_27",
+      "name": "Paneer Rara",
+      "price": 290
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_28",
+      "name": "Paneer Lahori",
+      "price": 285
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_29",
+      "name": "Paneer Kurchan",
+      "price": 270
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_30",
+      "name": "Paneer Peshawari",
+      "price": 275
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_31",
+      "name": "Paneer Sham Savera",
+      "price": 300
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_32",
+      "name": "Paneer Changezi",
+      "price": 275
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_33",
+      "name": "Paneer Moti Masala",
+      "price": 280
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_34",
+      "name": "Amritsari Bhurji",
+      "price": 295
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_35",
+      "name": "Dal Fry",
+      "price": 160
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_36",
+      "name": "Dal Tadka",
+      "price": 180
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_37",
+      "name": "Dal Palak",
+      "price": 190
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_38",
+      "name": "Dal Kolhapuri",
+      "price": 190
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_39",
+      "name": "Dal Amritsari",
+      "price": 220
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_40",
+      "name": "Punjabi Pakoda Kadhi",
+      "price": 180
+    },
+    {
+      "category": "main_course_veg",
+      "item_id": "main_course_veg_41",
+      "name": "Dal Double Tadka",
+      "price": 200
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_0",
+      "name": "Chicken Bhuna Masala",
+      "price": 260
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_1",
+      "name": "Chicken Kadai",
+      "price": 255
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_2",
+      "name": "Chicken Handi",
+      "price": 255
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_3",
+      "name": "Chicken Kolhapuri",
+      "price": 260
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_4",
+      "name": "Tava Chicken Masala",
+      "price": 270
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_5",
+      "name": "Chicken Boti Masala",
+      "price": 260
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_6",
+      "name": "Chicken Hariyali Masala",
+      "price": 270
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_7",
+      "name": "Chicken Malai Masala",
+      "price": 290
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_8",
+      "name": "Chicken Dabba Gosht",
+      "price": 330
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_9",
+      "name": "Chicken Do Pyaza",
+      "price": 290
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_10",
+      "name": "Chicken Butter Masala",
+      "price": 300
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_11",
+      "name": "Murgh Angara Masala",
+      "price": 320
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_12",
+      "name": "Murgh Chingari",
+      "price": 330
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_13",
+      "name": "Bombay Kheema Masala",
+      "price": 330
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_14",
+      "name": "Chicken Rada",
+      "price": 340
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_15",
+      "name": "Chicken Lababdar",
+      "price": 330
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_16",
+      "name": "Chicken Shabnami",
+      "price": 290
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_17",
+      "name": "Egg Masala",
+      "price": 180
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_18",
+      "name": "Egg Curry (Red)",
+      "price": 220
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_19",
+      "name": "Egg Curry (Green)",
+      "price": 220
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_20",
+      "name": "Egg Lababdar",
+      "price": 240
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_21",
+      "name": "Egg Cheese Masala",
+      "price": 260
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_22",
+      "name": "Egg Bhurji Masala",
+      "price": 230
+    },
+    {
+      "category": "main_course_non_veg",
+      "item_id": "main_course_non_veg_23",
+      "name": "Egg Hariyali",
+      "price": 250
+    },
+    {
+      "category": "rice_and_biryani_veg",
+      "item_id": "rice_and_biryani_veg_0",
+      "name": "Steamed Rice",
+      "price": 150
+    },
+    {
+      "category": "rice_and_biryani_veg",
+      "item_id": "rice_and_biryani_veg_1",
+      "name": "Jeera Rice",
+      "price": 160
+    },
+    {
+      "category": "rice_and_biryani_veg",
+      "item_id": "rice_and_biryani_veg_2",
+      "name": "Lemon Rice",
+      "price": 180
+    },
+    {
+      "category": "rice_and_biryani_veg",
+      "item_id": "rice_and_biryani_veg_3",
+      "name": "Tomato Rice",
+      "price": 190
+    },
+    {
+      "category": "rice_and_biryani_veg",
+      "item_id": "rice_and_biryani_veg_4",
+      "name": "Curd Rice",
+      "price": 180
+    },
+    {
+      "category": "rice_and_biryani_veg",
+      "item_id": "rice_and_biryani_veg_5",
+      "name": "Mutter Pulav",
+      "price": 160
+    },
+    {
+      "category": "rice_and_biryani_veg",
+      "item_id": "rice_and_biryani_veg_6",
+      "name": "Veg Pulav",
+      "price": 200
+    },
+    {
+      "category": "rice_and_biryani_veg",
+      "item_id": "rice_and_biryani_veg_7",
+      "name": "Paneer Pulav",
+      "price": 230
+    },
+    {
+      "category": "rice_and_biryani_veg",
+      "item_id": "rice_and_biryani_veg_8",
+      "name": "Cheese Pulav",
+      "price": 250
+    },
+    {
+      "category": "rice_and_biryani_veg",
+      "item_id": "rice_and_biryani_veg_9",
+      "name": "Veg Biryani",
+      "price": 200
+    },
+    {
+      "category": "rice_and_biryani_veg",
+      "item_id": "rice_and_biryani_veg_10",
+      "name": "Veg Hyderabadi Biryani",
+      "price": 220
+    },
+    {
+      "category": "rice_and_biryani_veg",
+      "item_id": "rice_and_biryani_veg_11",
+      "name": "Paneer Biryani",
+      "price": 270
+    },
+    {
+      "category": "rice_and_biryani_veg",
+      "item_id": "rice_and_biryani_veg_12",
+      "name": "Paneer Tikka Biryani",
+      "price": 300
+    },
+    {
+      "category": "rice_and_biryani_veg",
+      "item_id": "rice_and_biryani_veg_13",
+      "name": "Paneer Lajawab Biryani",
+      "price": 330
+    },
+    {
+      "category": "rice_and_biryani_veg",
+      "item_id": "rice_and_biryani_veg_14",
+      "name": "Paneer Hyderabadi Biryani",
+      "price": 320
+    },
+    {
+      "category": "rice_and_biryani_non_veg",
+      "item_id": "rice_and_biryani_non_veg_0",
+      "name": "Egg Biryani",
+      "price": 220
+    },
+    {
+      "category": "rice_and_biryani_non_veg",
+      "item_id": "rice_and_biryani_non_veg_1",
+      "name": "Chicken Biryani",
+      "price": 260
+    },
+    {
+      "category": "rice_and_biryani_non_veg",
+      "item_id": "rice_and_biryani_non_veg_2",
+      "name": "Chicken Tikka Biryani",
+      "price": 300
+    },
+    {
+      "category": "rice_and_biryani_non_veg",
+      "item_id": "rice_and_biryani_non_veg_3",
+      "name": "Chicken Handi Biryani",
+      "price": 300
+    },
+    {
+      "category": "rice_and_biryani_non_veg",
+      "item_id": "rice_and_biryani_non_veg_4",
+      "name": "Chicken Hyderabadi Biryani",
+      "price": 290
+    },
+    {
+      "category": "rice_and_biryani_non_veg",
+      "item_id": "rice_and_biryani_non_veg_5",
+      "name": "Chicken Lajawab Biryani",
+      "price": 330
+    },
+    {
+      "category": "rice_and_biryani_non_veg",
+      "item_id": "rice_and_biryani_non_veg_6",
+      "name": "Chicken Pulav",
+      "price": 280
+    },
+    {
+      "category": "rice_and_biryani_non_veg",
+      "item_id": "rice_and_biryani_non_veg_7",
+      "name": "Chicken Masala Rice",
+      "price": 270
+    },
+    {
+      "category": "rice_and_biryani_non_veg",
+      "item_id": "rice_and_biryani_non_veg_8",
+      "name": "Chicken Tava Pulav",
+      "price": 280
+    },
+    {
+      "category": "rice_and_biryani_non_veg",
+      "item_id": "rice_and_biryani_non_veg_9",
+      "name": "Egg Pulav",
+      "price": 200
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_0",
+      "name": "Roti",
+      "price": 30
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_1",
+      "name": "Butter Roti",
+      "price": 40
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_2",
+      "name": "Lacha Paratha",
+      "price": 60
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_3",
+      "name": "Plain Paratha",
+      "price": 50
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_4",
+      "name": "Butter Paratha",
+      "price": 60
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_5",
+      "name": "Aloo Paratha",
+      "price": 80
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_6",
+      "name": "Onion Paratha",
+      "price": 80
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_7",
+      "name": "Paneer Paratha",
+      "price": 120
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_8",
+      "name": "Cheese Paratha",
+      "price": 120
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_9",
+      "name": "Gobi Paratha",
+      "price": 100
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_10",
+      "name": "Mix Veg Paratha",
+      "price": 120
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_11",
+      "name": "Chilly Cheese Paratha",
+      "price": 140
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_12",
+      "name": "Missi Roti",
+      "price": 80
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_13",
+      "name": "Naan",
+      "price": 40
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_14",
+      "name": "Butter Naan",
+      "price": 60
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_15",
+      "name": "Cheese Naan",
+      "price": 75
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_16",
+      "name": "Cheese Garlic Naan",
+      "price": 95
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_17",
+      "name": "Peshwari Naan",
+      "price": 100
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_18",
+      "name": "Chilli Milli Naan",
+      "price": 120
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_19",
+      "name": "Plain Kulcha",
+      "price": 40
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_20",
+      "name": "Butter Kulcha",
+      "price": 60
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_21",
+      "name": "Cheese Kulcha",
+      "price": 75
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_22",
+      "name": "Onion Kulcha",
+      "price": 80
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_23",
+      "name": "Stuff Kulcha",
+      "price": 120
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_24",
+      "name": "Egg Paratha",
+      "price": 110
+    },
+    {
+      "category": "breads_and_parathas",
+      "item_id": "breads_and_parathas_25",
+      "name": "Chicken Paratha",
+      "price": 150
+    },
+    {
+      "category": "soups",
+      "item_id": "soups_0",
+      "name": "Veg Manchow Soup",
+      "price": 160
+    },
+    {
+      "category": "soups",
+      "item_id": "soups_1",
+      "name": "Veg Hot and Sour",
+      "price": 170
+    },
+    {
+      "category": "soups",
+      "item_id": "soups_2",
+      "name": "Veg Lemon Coriander Soup",
+      "price": 170
+    },
+    {
+      "category": "soups",
+      "item_id": "soups_3",
+      "name": "Veg Sweet Corn Soup",
+      "price": 180
+    },
+    {
+      "category": "soups",
+      "item_id": "soups_4",
+      "name": "Chicken Manchow Soup",
+      "price": 180
+    },
+    {
+      "category": "soups",
+      "item_id": "soups_5",
+      "name": "Chicken Hot and Sour",
+      "price": 195
+    },
+    {
+      "category": "soups",
+      "item_id": "soups_6",
+      "name": "Chicken Lemon Coriander Soup",
+      "price": 195
+    },
+    {
+      "category": "soups",
+      "item_id": "soups_7",
+      "name": "Chicken Sweet Corn Soup",
+      "price": 200
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_0",
+      "name": "Veg Manchurian Dry",
+      "price": 250
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_1",
+      "name": "Veg Manchurian Gravy",
+      "price": 280
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_2",
+      "name": "Paneer Manchurian Dry",
+      "price": 280
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_3",
+      "name": "Paneer Manchurian Gravy",
+      "price": 310
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_4",
+      "name": "Mushroom Manchurian Dry",
+      "price": 300
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_5",
+      "name": "Mushroom Manchurian Gravy",
+      "price": 330
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_6",
+      "name": "Paneer Chilly Dry",
+      "price": 280
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_7",
+      "name": "Paneer Chilly Gravy",
+      "price": 300
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_8",
+      "name": "Mushroom Chilly Dry",
+      "price": 300
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_9",
+      "name": "Mushroom Chilly Gravy",
+      "price": 330
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_10",
+      "name": "Veg Crispy",
+      "price": 280
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_11",
+      "name": "Paneer Crispy",
+      "price": 325
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_12",
+      "name": "Mushroom Crispy",
+      "price": 325
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_13",
+      "name": "Veg Chinese Bhel",
+      "price": 200
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_14",
+      "name": "Chicken Chilly Dry",
+      "price": 280
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_15",
+      "name": "Chicken Chilly Gravy",
+      "price": 320
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_16",
+      "name": "Chicken Crispy",
+      "price": 340
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_17",
+      "name": "Spicy Singapore Chicken",
+      "price": 350
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_18",
+      "name": "Chicken Dragon",
+      "price": 350
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_19",
+      "name": "Chicken Adobo",
+      "price": 350
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_20",
+      "name": "Chicken 65",
+      "price": 285
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_21",
+      "name": "Chicken Kungpao",
+      "price": 300
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_22",
+      "name": "Chicken Lollipop",
+      "price": 280
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_23",
+      "name": "Chicken Lollipop Gravy",
+      "price": 300
+    },
+    {
+      "category": "chinese_appetizers",
+      "item_id": "chinese_appetizers_24",
+      "name": "Chicken in Choice of Sauce",
+      "price": 300
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_0",
+      "name": "Veg Fried Rice",
+      "price": 240
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_1",
+      "name": "Veg Schezwan Fried Rice",
+      "price": 260
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_2",
+      "name": "Veg Burnt Garlic Rice",
+      "price": 250
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_3",
+      "name": "Veg Triple Schezwan Rice",
+      "price": 320
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_4",
+      "name": "Veg Manchurian Rice",
+      "price": 280
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_5",
+      "name": "Veg Singapore Rice",
+      "price": 295
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_6",
+      "name": "Veg Hongkong Rice",
+      "price": 320
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_7",
+      "name": "Veg Chopper Rice",
+      "price": 320
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_8",
+      "name": "Veg Hakka Noodles",
+      "price": 260
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_9",
+      "name": "Veg Schezwan Noodles",
+      "price": 280
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_10",
+      "name": "Veg Burnt Garlic Noodles",
+      "price": 275
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_11",
+      "name": "Veg Triple Noodles",
+      "price": 350
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_12",
+      "name": "Veg Manchurian Noodles",
+      "price": 300
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_13",
+      "name": "Veg Singapore Noodles",
+      "price": 320
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_14",
+      "name": "Veg Hongkong Noodles",
+      "price": 350
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_15",
+      "name": "Chicken Fried Rice",
+      "price": 270
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_16",
+      "name": "Chicken Schezwan Fried Rice",
+      "price": 290
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_17",
+      "name": "Chicken Burnt Garlic Rice",
+      "price": 280
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_18",
+      "name": "Chicken Triple Schezwan Rice",
+      "price": 360
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_19",
+      "name": "Chicken Manchurian Rice",
+      "price": 320
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_20",
+      "name": "Chicken Singapore Rice",
+      "price": 325
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_21",
+      "name": "Chicken Hongkong Rice",
+      "price": 350
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_22",
+      "name": "Chicken Chopper Rice",
+      "price": 285
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_23",
+      "name": "Chicken Hakka Noodles",
+      "price": 310
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_24",
+      "name": "Chicken Schezwan Noodles",
+      "price": 295
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_25",
+      "name": "Chicken Burnt Garlic Noodles",
+      "price": 380
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_26",
+      "name": "Chicken Triple Noodles",
+      "price": 335
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_27",
+      "name": "Chicken Manchurian Noodles",
+      "price": 350
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_28",
+      "name": "Chicken Singapore Noodles",
+      "price": 380
+    },
+    {
+      "category": "oriental_mains",
+      "item_id": "oriental_mains_29",
+      "name": "Chicken Hongkong Noodles",
+      "price": 380
+    },
+    {
+      "category": "mutton",
+      "item_id": "mutton_0",
+      "name": "Mutton Ghee Roast",
+      "price": 350
+    },
+    {
+      "category": "mutton",
+      "item_id": "mutton_1",
+      "name": "Mutton Chaap",
+      "price": 450
+    },
+    {
+      "category": "mutton",
+      "item_id": "mutton_2",
+      "name": "Mutton Seekh Kebab",
+      "price": 350
+    },
+    {
+      "category": "mutton",
+      "item_id": "mutton_3",
+      "name": "Mutton Galawat Kebab",
+      "price": 400
+    },
+    {
+      "category": "mutton",
+      "item_id": "mutton_4",
+      "name": "Dal Gosh",
+      "price": 380
+    },
+    {
+      "category": "mutton",
+      "item_id": "mutton_5",
+      "name": "Mutton Saoji",
+      "price": 350
+    },
+    {
+      "category": "mutton",
+      "item_id": "mutton_6",
+      "name": "Mutton Diwani",
+      "price": 400
+    },
+    {
+      "category": "malvani",
+      "item_id": "malvani_0",
+      "name": "Chicken Malwani Masala",
+      "price": 280
+    },
+    {
+      "category": "malvani",
+      "item_id": "malvani_1",
+      "name": "Chicken Kolhapuri",
+      "price": 280
+    },
+    {
+      "category": "malvani",
+      "item_id": "malvani_2",
+      "name": "Chicken Saoji",
+      "price": 300
+    },
+    {
+      "category": "malvani",
+      "item_id": "malvani_3",
+      "name": "Chicken Maratha",
+      "price": 300
+    },
+    {
+      "category": "malvani",
+      "item_id": "malvani_4",
+      "name": "Malwan Sukka Chicken",
+      "price": 300
+    },
+    {
+      "category": "malvani",
+      "item_id": "malvani_5",
+      "name": "Tambda Rassa",
+      "price": 150
+    },
+    {
+      "category": "malvani",
+      "item_id": "malvani_6",
+      "name": "Pandhra Rassa",
+      "price": 150
+    },
+    {
+      "category": "malvani",
+      "item_id": "malvani_7",
+      "name": "Chicken Malwani Kheema",
+      "price": 290
+    },
+    {
+      "category": "malvani",
+      "item_id": "malvani_8",
+      "name": "Chicken Kolhapuri Kheema",
+      "price": 290
+    },
+    {
+      "category": "malvani",
+      "item_id": "malvani_9",
+      "name": "Chicken Saoji Kheema",
+      "price": 310
+    },
+    {
+      "category": "malvani",
+      "item_id": "malvani_10",
+      "name": "Chicken Maratha Kheema",
+      "price": 310
+    },
+    {
+      "category": "malvani",
+      "item_id": "malvani_11",
+      "name": "Sukka Chicken Kheema",
+      "price": 310
+    },
+    {
+      "category": "4states_special_non_veg",
+      "item_id": "4states_special_non_veg_0",
+      "name": "Chicken Nargisi Kebab",
+      "price": 340
+    },
+    {
+      "category": "4states_special_non_veg",
+      "item_id": "4states_special_non_veg_1",
+      "name": "Chicken Dalcha",
+      "price": 350
+    },
+    {
+      "category": "4states_special_non_veg",
+      "item_id": "4states_special_non_veg_2",
+      "name": "Delhi Butter Chicken",
+      "price": 280
+    },
+    {
+      "category": "4states_special_non_veg",
+      "item_id": "4states_special_non_veg_3",
+      "name": "Delli 6 Chicken (Half)",
+      "price": 575
+    },
+    {
+      "category": "4states_special_non_veg",
+      "item_id": "4states_special_non_veg_4",
+      "name": "Delli 6 Chicken (Full)",
+      "price": 850
+    },
+    {
+      "category": "4states_special_non_veg",
+      "item_id": "4states_special_non_veg_5",
+      "name": "Aslam Chicken (Half)",
+      "price": 625
+    },
+    {
+      "category": "4states_special_non_veg",
+      "item_id": "4states_special_non_veg_6",
+      "name": "Aslam Chicken (Full)",
+      "price": 890
+    },
+    {
+      "category": "4states_special_non_veg",
+      "item_id": "4states_special_non_veg_7",
+      "name": "Chicken Kepsa Rice (Half)",
+      "price": 879
+    },
+    {
+      "category": "4states_special_non_veg",
+      "item_id": "4states_special_non_veg_8",
+      "name": "Chicken Kepsa Rice (Full)",
+      "price": 1369
+    },
+    {
+      "category": "4states_special_non_veg",
+      "item_id": "4states_special_non_veg_9",
+      "name": "Chicken Tikka Kepsa Rice (Half)",
+      "price": 989
+    },
+    {
+      "category": "4states_special_non_veg",
+      "item_id": "4states_special_non_veg_10",
+      "name": "Chicken Tikka Kepsa Rice (Full)",
+      "price": 1485
+    },
+    {
+      "category": "4states_special_veg",
+      "item_id": "4states_special_veg_0",
+      "name": "4States Dal Tadka",
+      "price": 240
+    },
+    {
+      "category": "4states_special_veg",
+      "item_id": "4states_special_veg_1",
+      "name": "Amritsari Pindi Chole",
+      "price": 280
+    },
+    {
+      "category": "4states_special_veg",
+      "item_id": "4states_special_veg_2",
+      "name": "Dilli 6 Paneer Butter Masala",
+      "price": 320
+    },
+    {
+      "category": "4states_special_veg",
+      "item_id": "4states_special_veg_3",
+      "name": "Dilli 6 Mushroom Butter Masala",
+      "price": 340
+    },
+    {
+      "category": "4states_special_veg",
+      "item_id": "4states_special_veg_4",
+      "name": "4States Special Veg",
+      "price": 299
+    },
+    {
+      "category": "4states_special_veg",
+      "item_id": "4states_special_veg_5",
+      "name": "Paneer Mumtaz",
+      "price": 320
+    },
+    {
+      "category": "4states_special_veg",
+      "item_id": "4states_special_veg_6",
+      "name": "4States Special Veg Biryani",
+      "price": 300
+    },
+    {
+      "category": "4states_special_veg",
+      "item_id": "4states_special_veg_7",
+      "name": "Kepsa Rice (Veg)",
+      "price": 700
+    },
+    {
+      "category": "4states_special_veg",
+      "item_id": "4states_special_veg_8",
+      "name": "Kepsa Rice (Paneer)",
+      "price": 870
+    },
+    {
+      "category": "4states_special_veg",
+      "item_id": "4states_special_veg_9",
+      "name": "Kepsa Rice (Veg Tandoor)",
+      "price": 970
+    },
+    {
+      "category": "4states_special_veg",
+      "item_id": "4states_special_veg_10",
+      "name": "Charcoal Biryani",
+      "price": 450
+    },
+    {
+      "category": "beverages",
+      "item_id": "beverages_0",
+      "name": "Bottled Water",
+      "price": 20
+    },
+    {
+      "category": "beverages",
+      "item_id": "beverages_1",
+      "name": "Lassi",
+      "price": 120
+    },
+    {
+      "category": "beverages",
+      "item_id": "beverages_2",
+      "name": "Masala Taak",
+      "price": 80
+    },
+    {
+      "category": "beverages",
+      "item_id": "beverages_3",
+      "name": "Kokum Sharbat",
+      "price": 70
+    },
+    {
+      "category": "beverages",
+      "item_id": "beverages_4",
+      "name": "Lemon Soda",
+      "price": 70
+    },
+    {
+      "category": "beverages",
+      "item_id": "beverages_5",
+      "name": "Milkshake (Banana/Oats)",
+      "price": 120
+    },
+    {
+      "category": "beverages",
+      "item_id": "beverages_6",
+      "name": "French Press Coffee",
+      "price": 100
+    },
+    {
+      "category": "beverages",
+      "item_id": "beverages_7",
+      "name": "Masala Chai",
+      "price": 75
+    },
+    {
+      "category": "beverages",
+      "item_id": "beverages_8",
+      "name": "Mojito",
+      "price": 160
+    },
+    {
+      "category": "beverages",
+      "item_id": "beverages_9",
+      "name": "Chilli Guava",
+      "price": 180
+    },
+    {
+      "category": "desserts",
+      "item_id": "desserts_0",
+      "name": "Seviya",
+      "price": 90
+    },
+    {
+      "category": "desserts",
+      "item_id": "desserts_1",
+      "name": "Ada Payasum",
+      "price": 120
+    },
+    {
+      "category": "desserts",
+      "item_id": "desserts_2",
+      "name": "Gulab Jamun",
+      "price": 60
+    },
+    {
+      "category": "desserts",
+      "item_id": "desserts_3",
+      "name": "Kulfi Ice Cream",
+      "price": 70
+    },
+    {
+      "category": "desserts",
+      "item_id": "desserts_4",
+      "name": "Kheer",
+      "price": 80
+    },
+    {
+      "category": "desserts",
+      "item_id": "desserts_5",
+      "name": "Sheer Khurma",
+      "price": 120
+    },
+    {
+      "category": "desserts",
+      "item_id": "desserts_6",
+      "name": "Moong Dal Halwa",
+      "price": 150
+    },
+    {
+      "category": "desserts",
+      "item_id": "desserts_7",
+      "name": "Gulab Jamun with Vanilla Ice-Cream",
+      "price": 80
+    }
+  ]
+}
