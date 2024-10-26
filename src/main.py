@@ -7,7 +7,6 @@ cli = Typer(
   invoke_without_command=True,
   no_args_is_help=True
 )
-api = FastAPI()
 
 @cli.command()
 def migrate():
@@ -22,9 +21,10 @@ def run_server():
   This will start an HTTP server on localhost and PORT
   """
   uvicorn.run(
-    "main:api",
+    "api.root:api",
     host="localhost",
     port=int(environments.SERVER_PORT),
+    reload=environments.ENVIRONMENT == environments.DEV_ENVIRONMENT
   )
   pass
 
